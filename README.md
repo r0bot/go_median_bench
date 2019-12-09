@@ -1,5 +1,5 @@
-##Median calculation benchmark
-Run the benchmark with to get memory too
+## Median calculation benchmark
+Run the benchmark with:
 
     go test -benchtime=10000x -bench=. -test.benchmem=true
     
